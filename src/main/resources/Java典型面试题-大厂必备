@@ -1,0 +1,7 @@
+
+1. String StringBuffer 和 StringBuilder 的区别是什么?String 为什么是不可变的?
+    可变性
+    线程安全性
+    性能
+    三者的使用场景
+
